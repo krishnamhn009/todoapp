@@ -21,10 +21,10 @@ npm install
 
 npm install bluebird mongoose mongoose-paginate nodemon
 
-cd todoapp --run npm start (for server)
+cd todoapp/server --run npm start (for server)
 
 go to http://localhost:3000/
 
-cd client --run ng serve
+cd todoapp/client --run ng serve
 
 go to http://localhost:4200/
