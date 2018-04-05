@@ -1,30 +1,40 @@
 
 # todoapp
-a simple to-do app using angular-typescript
+a simple to-do app using angular-typescript-mongo-db.It is build only for demonstration and tutorial purpose.
 
-Environment Setup
-First go here — https://nodejs.org/en/download/ and Install NodeJS (>=7.6.0).
+Node provides RESTful API ,Angular provides frontend and mongodb is for backend.
 
-Download a good Text Editor or IDE. I Personally prefer Visual Studio Code — https://code.visualstudio.com/download
+#Requirments
 
-Environment Setup is done. Go to command line.
+* Node and npm
+* MongoDB : I have used cloud hosted mlab(https://mlab.com/)
 
-First install ExpressJS. The most popular NodeJS Framework.
+#Installation
 
-npm install -g express express-generator
+* First go here — https://nodejs.org/en/download/ and Install NodeJS (>=7.6.0).
 
-How to run
+* Download a good Text Editor or IDE. I Personally prefer Visual Studio Code — https://code.visualstudio.com/download
 
-clone or download project
+* First install ExpressJS. The most popular NodeJS Framework.
 
-npm install
+  npm install -g express express-generator
 
-npm install bluebird mongoose mongoose-paginate nodemon
+* How to run
 
-cd todoapp/server --run npm start (for server)
+ clone or download project
 
-go to http://localhost:3000/
+* npm install
 
-cd todoapp/client --run ng serve
+* npm install bluebird mongoose mongoose-paginate nodemon
 
-go to http://localhost:4200/
+* cd todoapp/server --run npm start (for server)
+
+   go to http://localhost:3000/
+
+* cd todoapp/client --run ng serve
+ 
+ go to http://localhost:4200/
+
+ * Enjoy Learning :)
+
+
