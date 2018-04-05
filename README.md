@@ -4,12 +4,12 @@ a simple to-do app using angular-typescript-mongo-db.It is build only for demons
 
 Node provides RESTful API ,Angular provides frontend and mongodb is for backend.
 
-#Requirments
+# Requirments
 
 * Node and npm
 * MongoDB : I have used cloud hosted mlab(https://mlab.com/)
 
-#Installation
+# Installation
 
 * First go here — https://nodejs.org/en/download/ and Install NodeJS (>=7.6.0).
 
@@ -21,7 +21,7 @@ Node provides RESTful API ,Angular provides frontend and mongodb is for backend.
 
 * How to run
 
- clone or download project
+  clone or download project
 
 * npm install
 
@@ -33,7 +33,7 @@ Node provides RESTful API ,Angular provides frontend and mongodb is for backend.
 
 * cd todoapp/client --run ng serve
  
- go to http://localhost:4200/
+  go to http://localhost:4200/
 
  * Enjoy Learning :)
 
